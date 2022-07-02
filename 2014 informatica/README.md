@@ -14,3 +14,5 @@ Dado los documentos con contenido en pixeles y funciones para leerlo, crear un a
 1) Filtro negativo de color
 2) Filtro de rotación antihorario
 3) Filtro de mitad de alto
+
+acceso al código: https://github.com/AgustinSt1990/oldies/blob/main/2014%20informatica/stigliano_agustinf.py
