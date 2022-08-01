@@ -21,7 +21,7 @@
 <br>
 
 ---------------  
-## <u>Asset's Market API - Statistical and Probable approach to data analysis</u>
+## <u>Asset's Market API - Statistical and Probabilistic approach to data analysis</u>
 ### Mar 2022 - Apr 2022
   
 ![certificado-quantreo](https://user-images.githubusercontent.com/95892143/182146692-66830012-c1a3-4408-be1b-4a44af5b6164.jpg)
