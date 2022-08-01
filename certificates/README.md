@@ -43,3 +43,5 @@
 
   
 ## As you can see in the "oldies" repository I started in Python in 2014, and for many years I was using it.
+
+## The are more certificates in LinkedIn profile. Are from other fields.
