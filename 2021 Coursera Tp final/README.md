@@ -10,6 +10,10 @@
 <br>
 
 TEMA:
-Crear un algoritmo capaz de asociar usuarios con acciones y permitir la interacción entre usuarios a traves de la creación de documentos dentro del directotio - utilización de la libreria os.
+- Desarrollo de una "red social" para  que los usuarios se registren, inicien sesión y puedan interactuar entre ellos.
+
+- Crear un algoritmo capaz de asociar usuarios con acciones y permitir la interacción entre usuarios a traves de la creación de documentos dentro del directotio - utilización de la libreria os.
+
+- Diferenciar entre módulos de importación de documentos con el programa principal.
 
 acceso al certificado: https://www.coursera.org/account/accomplishments/certificate/FE9ZYTV86529

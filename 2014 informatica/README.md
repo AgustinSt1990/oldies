@@ -6,11 +6,11 @@
 <br>
 
 # Trabajo práctico final de cursada.
-## Objetivo: Manejo de listas y funciones
+## Objetivo: Manejo de listas y funciones: edicion de imagenes en blanco y negro
 <br>
 
 TEMA:
-Dado los documentos con contenido en pixeles y funciones para leerlo, crear un algoritmo en un archivo ".py" que aplique modificaciones a la visualización del pingüino "tux" de linux. Las funciones que debe aplicar son:
+- Dado los documentos con contenido en pixeles y funciones para leerlo, crear un algoritmo en un archivo ".py" que aplique modificaciones a la visualización del pingüino "tux" de linux. Las funciones que debe aplicar son:
 1) Filtro negativo de color
 2) Filtro de rotación antihorario
 3) Filtro de mitad de alto

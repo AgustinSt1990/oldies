@@ -18,3 +18,5 @@ Para finalizar la operación el programa solicita si desea guardar la operación
 Tiene funciones auxiliares como generar notas.
 
 acceso al código: https://github.com/AgustinSt1990/oldies/blob/main/2021%20TradeGestor/TradeGestorDEMO.py
+
+video presentación youtube: https://youtu.be/oGSEw5ks70w

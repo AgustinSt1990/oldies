@@ -10,7 +10,8 @@
 <br>
 
 TEMA:
-La ecuación diferencial está explicada en el ".pdf", se trata de la ley física que explicaría el comportamiento de un flotante cónico que se lo arroja de una altura determinada.
+- Obtención de valores aproximados para una ecuación diferencial de segundo orden aplicando método de Euler
+- Presentación académica en .pdf: La ecuación diferencial está explicada en el ".pdf", se trata de la ley física que explicaría el comportamiento de un flotante cónico que se lo arroja de una altura determinada.
 
 acceso al código: https://github.com/AgustinSt1990/oldies/blob/main/2014%20metodos%20numericos/flotante_conico.py
 

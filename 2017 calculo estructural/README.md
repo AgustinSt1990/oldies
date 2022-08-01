@@ -10,7 +10,9 @@
 <br>
 
 TEMA:
-Demostrar que a partir de métodos analíticos y métodos numéricos se llega al mismo resultado, contrastar errores con un software (yo desarrollé el propio).
+- Obtención de frecuencias y modos normales de vibrar para una estructura hiperestática.
+- Demostrar que a partir de métodos analíticos y métodos numéricos se llega al mismo resultado, contrastar errores con un software (yo desarrollé el propio).
+ 
 
 acceso al código: https://github.com/AgustinSt1990/oldies/blob/main/2017%20calculo%20estructural/metodo_stodola.py
 
